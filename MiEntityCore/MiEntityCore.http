@@ -1,0 +1,6 @@
+@MiEntityCore_HostAddress = http://localhost:5004
+
+GET {{MiEntityCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
